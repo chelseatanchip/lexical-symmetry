@@ -5,6 +5,7 @@ This script uses a Logistic Regression classifier with a customized dataset (fro
 Scripts:
 - analyses (.ipynb): main script that contains the classifiers and their subsequent evaluation 
 - analyses_helper_functions (.py): contains helper functions to run analyses
+
 Data:
 - verbcorp (.csv): contains sentences and annotated feature sets used in this study
 - LF_errors (.csv): LF model's error sentences
