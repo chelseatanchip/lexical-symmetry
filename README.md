@@ -4,6 +4,7 @@ This script uses a Logistic Regression classifier with a customized dataset (fro
 
 Scripts:
 - analyses (.ipynb): main script that contains the classifiers and their subsequent evaluation 
+
 Note: the word2vec embeddings are too large to upload here. Please clone GoogleNews-vectors-negative300.bin.gz from https://github.com/mmihaltz/word2vec-GoogleNews-vectors
 - analyses_helper_functions (.py): contains helper functions to run analyses
   
