@@ -1,4 +1,4 @@
-# lexical-symmetry
+# Lexical Symmetry
 Classifying lexical symmetry in verbs using machine learning techniques.
 This script uses a Logistic Regression classifier with a customized dataset (from English Web Corpus 2015) and pre-trained word embeddings word2vec (Google News Corpus) and GloVe (Wikipedia 2014). 
 
